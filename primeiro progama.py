@@ -1,0 +1,6 @@
+nome = input(' Qual o seu nome?')
+idade = input(' Qual a sua idade?')
+peso = input(' qual o seu peso?')
+cidade = input (' Qual a sua cidade?')
+pint( nome, idade, peso, cidade)
+print("legal! prazer em conher você", nome)
